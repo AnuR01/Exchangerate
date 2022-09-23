@@ -3,7 +3,7 @@ import { useState } from 'react';
 import axios from 'axios';
 
 
-const URL = 'https://api.exchangeratesapi.io/v1/latest? access_key=';
+const URL = 'https://api.exchangerate.host/latest';
 const API_KEY = '911b3806a1cbe40dacf96b52c007b3f3';
 
 function App() {
