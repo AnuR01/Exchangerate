@@ -42,8 +42,8 @@ async function convert(e) {
         </div>
 
         <div>
-          <label>Gbp</label>
-          <output>{gbp.toFixed(2)} € </output>
+          <label> Gbp </label>
+          <output>{gbp.toFixed(2)} €</output>
         </div>
 
         <div>
